@@ -25,7 +25,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekboadgurjar/Rock-Paper-Scissors.git
+    git clone https://github.com/abhishekgurjarin/Rock-Paper-Scissors.git
     ```
 
 2. **Open the project directory**:
@@ -45,7 +45,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the Rock Paper Scissors game [here](https://abhishekboadgurjar.github.io/Rock-Paper-Scissors/).
+You can check out the live demo of the Rock Paper Scissors game [here](https://abhishekgurjarin.github.io/Rock-Paper-Scissors/).
 
 ## Screenshots
 ![Screenshot 2024-08-23 230656](https://github.com/user-attachments/assets/1ce2349e-d9b5-4099-96ee-947e56c46f0c)
@@ -61,5 +61,5 @@ This project was developed as part of my journey to enhance my front-end develop
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekboadgurjar)
+  - [GitHub Profile](https://github.com/abhishekgurjarin)
 
